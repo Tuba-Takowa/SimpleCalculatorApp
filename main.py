@@ -1,7 +1,7 @@
 from tkinter import *
 
 w = Tk()
-w.title('Pomato_PeeZy Calculator')
+w.title('Tomato_PeeZy Calculator')
 text = Label(w, text='Pomato_PeeZy Calculator', font=('comic sans MS', 20))
 text.grid(row=0, column=0, columnspan=4)
 screen = Entry(w, width=20, borderwidth=6, font=('arial', 25))
